@@ -1,5 +1,11 @@
 -----
 
+<div>
+<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_pettersen.png"/>
+</div>
+
+-----
+
 <div align="justify"> <i><b>Hey</b> :wave:, I'm <code>Leonardo Pettersen</code>, I'm 19 years old and I live in Belo Horizonte, Minas Gerais, Brazil. Currently, I'm <code>pursuing a degree</code> in Software Engineering at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. </div>
 
 -----
