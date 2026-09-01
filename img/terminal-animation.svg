@@ -1,0 +1,120 @@
+<svg viewBox="0 0 640 405" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="640" height="405" fill="#0a0f0a"/>
+  <rect x="0" y="0" width="640" height="24" fill="#1c1c1c"/>
+  <circle cx="14" cy="12" r="5" fill="#ff5f57"/>
+  <circle cx="32" cy="12" r="5" fill="#febc2e"/>
+  <circle cx="50" cy="12" r="5" fill="#28c840"/>
+  <text x="320" y="16" text-anchor="middle" font-size="12" fill="#8a8a8a">terminal — bash</text>
+
+  <animate id="master" attributeName="visibility" values="visible;visible" dur="11.775s" repeatCount="indefinite"/>
+
+  <defs>
+    <clipPath id="clip0">
+      <rect x="16" y="29" width="0" height="14">
+        <animate attributeName="width" values="0.0;7.2;14.4;21.6;28.8;36.0;43.2;50.4;57.6;64.8;72.0;79.2;86.4;93.6;100.8;108.0;115.2;122.4;129.6;136.8;144.0;151.2;158.4;165.6;172.8;180.0;187.2;194.4;201.6" keyTimes="0.0;0.0357;0.0714;0.1071;0.1429;0.1786;0.2143;0.25;0.2857;0.3214;0.3571;0.3929;0.4286;0.4643;0.5;0.5357;0.5714;0.6071;0.6429;0.6786;0.7143;0.75;0.7857;0.8214;0.8571;0.8929;0.9286;0.9643;1.0" dur="1.26s" begin="0.0s;master.repeat(1)+0.0s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="16" y="59" width="0" height="14">
+        <animate attributeName="width" values="0.0;7.2;14.4;21.6;28.8;36.0;43.2;50.4;57.6" keyTimes="0.0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1.0" dur="0.36s" begin="1.56s;master.repeat(1)+1.56s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="16" y="134" width="0" height="14">
+        <animate attributeName="width" values="0.0;7.2;14.4;21.6;28.8;36.0;43.2;50.4;57.6;64.8;72.0;79.2;86.4;93.6;100.8;108.0" keyTimes="0.0;0.0667;0.1333;0.2;0.2667;0.3333;0.4;0.4667;0.5333;0.6;0.6667;0.7333;0.8;0.8667;0.9333;1.0" dur="0.675s" begin="3.02s;master.repeat(1)+3.02s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip8">
+      <rect x="16" y="224" width="0" height="14">
+        <animate attributeName="width" values="0.0;7.2;14.4;21.6;28.8;36.0;43.2;50.4;57.6;64.8;72.0;79.2;86.4;93.6;100.8" keyTimes="0.0;0.0714;0.1429;0.2143;0.2857;0.3571;0.4286;0.5;0.5714;0.6429;0.7143;0.7857;0.8571;0.9286;1.0" dur="0.63s" begin="5.195s;master.repeat(1)+5.195s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="clip13">
+      <rect x="16" y="329" width="0" height="14">
+        <animate attributeName="width" values="0.0;7.2;14.4;21.6;28.8;36.0;43.2;50.4;57.6;64.8;72.0;79.2;86.4;93.6;100.8;108.0;115.2;122.4;129.6;136.8;144.0;151.2;158.4;165.6;172.8;180.0;187.2;194.4;201.6;208.8;216.0" keyTimes="0.0;0.0333;0.0667;0.1;0.1333;0.1667;0.2;0.2333;0.2667;0.3;0.3333;0.3667;0.4;0.4333;0.4667;0.5;0.5333;0.5667;0.6;0.6333;0.6667;0.7;0.7333;0.7667;0.8;0.8333;0.8667;0.9;0.9333;0.9667;1.0" dur="1.35s" begin="7.725s;master.repeat(1)+7.725s" calcMode="discrete" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip0)">
+    <text x="16" y="40" font-size="12" fill="#22c55e">$ cd github.com/leopettersen</text>
+  </g>
+  <rect x="16" y="29" width="7" height="14" fill="#22c55e" opacity="0">
+    <animate attributeName="x" values="16;16" dur="0.001s" begin="0.0s;master.repeat(1)+0.0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="0.0s;master.repeat(1)+0.0s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.001s" begin="1.41s;master.repeat(1)+1.41s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#clip1)">
+    <text x="16" y="70" font-size="12" fill="#22c55e">$ whoami</text>
+  </g>
+  <rect x="16" y="59" width="7" height="14" fill="#22c55e" opacity="0">
+    <animate attributeName="x" values="16;16" dur="0.001s" begin="1.56s;master.repeat(1)+1.56s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="1.56s;master.repeat(1)+1.56s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.001s" begin="2.07s;master.repeat(1)+2.07s" fill="freeze"/>
+  </rect>
+  <text x="16" y="100" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="2.22s;master.repeat(1)+2.22s" fill="freeze"/>
+    Leonardo Pettersen
+  </text>
+  <text x="16" y="115" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="2.62s;master.repeat(1)+2.62s" fill="freeze"/>
+    Software Engineering Student @ PUC Minas
+  </text>
+  <g clip-path="url(#clip4)">
+    <text x="16" y="145" font-size="12" fill="#22c55e">$ cat about.txt</text>
+  </g>
+  <rect x="16" y="134" width="7" height="14" fill="#22c55e" opacity="0">
+    <animate attributeName="x" values="16;16" dur="0.001s" begin="3.02s;master.repeat(1)+3.02s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="3.02s;master.repeat(1)+3.02s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.001s" begin="3.845s;master.repeat(1)+3.845s" fill="freeze"/>
+  </rect>
+  <text x="16" y="175" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="3.995s;master.repeat(1)+3.995s" fill="freeze"/>
+    ✍️ Engenharia de Software
+  </text>
+  <text x="16" y="190" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="4.395s;master.repeat(1)+4.395s" fill="freeze"/>
+    🏠 PUC Minas
+  </text>
+  <text x="16" y="205" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="4.795s;master.repeat(1)+4.795s" fill="freeze"/>
+    📍 Belo Horizonte, Brazil
+  </text>
+  <g clip-path="url(#clip8)">
+    <text x="16" y="235" font-size="12" fill="#22c55e">$ ls languages</text>
+  </g>
+  <rect x="16" y="224" width="7" height="14" fill="#22c55e" opacity="0">
+    <animate attributeName="x" values="16;16" dur="0.001s" begin="5.195s;master.repeat(1)+5.195s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="5.195s;master.repeat(1)+5.195s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.001s" begin="5.975s;master.repeat(1)+5.975s" fill="freeze"/>
+  </rect>
+  <text x="16" y="265" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="6.125s;master.repeat(1)+6.125s" fill="freeze"/>
+    Java
+  </text>
+  <text x="16" y="280" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="6.525s;master.repeat(1)+6.525s" fill="freeze"/>
+    Phyton
+  </text>
+  <text x="16" y="295" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="6.925s;master.repeat(1)+6.925s" fill="freeze"/>
+    C#
+  </text>
+  <text x="16" y="310" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="7.325s;master.repeat(1)+7.325s" fill="freeze"/>
+    JS
+  </text>
+  <g clip-path="url(#clip13)">
+    <text x="16" y="340" font-size="12" fill="#22c55e">$ echo "Welcome to my GitHub!"</text>
+  </g>
+  <rect x="16" y="329" width="7" height="14" fill="#22c55e" opacity="0">
+    <animate attributeName="x" values="16;16" dur="0.001s" begin="7.725s;master.repeat(1)+7.725s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="7.725s;master.repeat(1)+7.725s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" dur="0.001s" begin="9.225s;master.repeat(1)+9.225s" fill="freeze"/>
+  </rect>
+  <text x="16" y="370" font-size="12" fill="#22c55e" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.001s" begin="9.375s;master.repeat(1)+9.375s" fill="freeze"/>
+    Welcome to my GitHub. 🤙
+  </text>
+
+</svg>
