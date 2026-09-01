@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/leopettersen/leopettersen/blob/main/img/header_pettersen.png"/>
+<img align="center" alt="Header" src="https://github.com/leopettersen/leopettersen/blob/main/img/terminal.svg"/>
 </div>
 
 -----
