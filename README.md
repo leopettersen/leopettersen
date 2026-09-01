@@ -29,7 +29,7 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 </td>
 <td><a href="mailto:leonardopettersen465@yahoo.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/leonardo-federici-pettersen" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/leonardo-federici-pettersen-b9b19b3b3/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 <td><a href="https://discordapp.com/users/1132400762643808308" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
