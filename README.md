@@ -74,7 +74,7 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 
 <div align="center">
 
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=@4bd0951e-a2a5-45b7-a97c-03f73106fd6e&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8)](https://nice-readme.vercel.app/wakatime)
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=4bd0951e-a2a5-45b7-a97c-03f73106fd6e&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8)](https://nice-readme.vercel.app/wakatime)
 </div>
 
 <br>
