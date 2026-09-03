@@ -1,22 +1,22 @@
 -----
+# Hello, I'm Leonardo Pettersen 👋
 
 <div>
 <img align="center" alt="Header" src="https://github.com/leopettersen/leopettersen/blob/main/img/terminal-animation.svg"/>
 </div>
 
------
-
 <div align="justify"> <i><b>Hey</b> :wave:, I'm <code>Leonardo Pettersen</code>, I'm 19 years old and I live in Belo Horizonte, Minas Gerais, Brazil. Currently, I'm <code>pursuing a degree</code> in Software Engineering at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. </div>
 
 -----
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>About me:
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>About me:
 
 <div align="justify"> 
 Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.br/" target="_blank">Software Engineering</a> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. I'm a highly motivated student with a deep curiosity about the technology sector, with a focus on programming methodologies and software development.
 
 -----
 
+## 🛜 Redes
 <div align="center">
 <table>
 <tr>
@@ -43,7 +43,7 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <table align="center">
   <tr>
@@ -66,3 +66,15 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
     <td align="center"><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></td>
     <td align="center"><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mongodb.png?raw=true"/></a></td>
   </tr>
+ </table>
+ </div>
+
+-----
+## ⌨️ WakaTime
+
+<div align="center">
+
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=4bd0951e-a2a5-45b7-a97c-03f73106fd6e&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&hide_title=true&langs_count=10)](https://nice-readme.vercel.app/wakatime)
+</div>
+
+<br>
