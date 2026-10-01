@@ -47,4 +47,22 @@
 ----
 ## Repos
 
-[![trabalho-intedisciplinar1-opm](https://helio-github-stats.vercel.app/api/pin?username=leopettersen&repo=trabalho-intedisciplinar1-opm&theme=dark&hide_border=true&border_radius=8&card_width=466)](https://github.com/leopettersen/trabalho-intedisciplinar1-opm)
+<div align="center">
+  <a href="https://github.com/leopettersen/trabalho-intedisciplinar1-opm">
+    <img
+      src="https://helio-github-stats.vercel.app/api/pin?username=leopettersen&repo=trabalho-intedisciplinar1-opm&theme=dark&bg_color=00000000&hide_border=true&border_radius=8&card_width=466"
+      width="466"
+      height="130"
+      alt="Trabalho Interdisciplinar 1 OPM"
+    />
+  </a>
+
+  <a href="https://github.com/leopettersen/portifolio">
+    <img
+      src="https://helio-github-stats.vercel.app/api/pin?username=leopettersen&repo=portifolio&theme=dark&bg_color=00000000&hide_border=true&border_radius=8&card_width=466"
+      width="466"
+      height="130"
+      alt="Portifolio"
+    />
+  </a>
+</div>
