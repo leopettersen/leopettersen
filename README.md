@@ -43,26 +43,3 @@
   <a href="https://nice-readme.vercel.app/github-stats"><img height="180" src="https://helio-github-stats.vercel.app/api?username=leopettersen&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=ffffff&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=8&card_width=400&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats"/></a>
   <a href="https://nice-readme.vercel.app/wakatime"><img height="180" src="https://helio-github-stats.vercel.app/api/wakatime?username=4bd0951e-a2a5-45b7-a97c-03f73106fd6e&custom_title=WakaTime+Stats&card_width=400&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8" alt="WakaTime Stats"/></a>
 </div>
-
-----
-## Repos
-
-<div align="center">
-  <a href="https://github.com/leopettersen/trabalho-intedisciplinar1-opm">
-    <img
-      src="https://helio-github-stats.vercel.app/api/pin?username=leopettersen&repo=trabalho-intedisciplinar1-opm&theme=dark&bg_color=00000000&hide_border=true&border_radius=8&card_width=466"
-      width="466"
-      height="130"
-      alt="Trabalho Interdisciplinar 1 OPM"
-    />
-  </a>
-
-  <a href="https://github.com/leopettersen/portifolio">
-    <img
-      src="https://helio-github-stats.vercel.app/api/pin?username=leopettersen&repo=portifolio&theme=dark&bg_color=00000000&hide_border=true&border_radius=8&card_width=466"
-      width="466"
-      height="130"
-      alt="Portifolio"
-    />
-  </a>
-</div>
