@@ -44,7 +44,7 @@
   <a href="https://nice-readme.vercel.app/wakatime">
   <img
     height="180"
-    src="https://helio-github-stats.vercel.app/api/wakatime?username=4bd0951e-a2a5-45b7-a97c-03f73106fd6e&custom_title=WakaTime+Stats&card_width=400&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8&theme=dark&hide=Markdown,Java%20Properties,XML,Git%20Config,Properties"
+    src="https://helio-github-stats.vercel.app/api/wakatime?username=4bd0951e-a2a5-45b7-a97c-03f73106fd6e&custom_title=WakaTime+Stats&card_width=400&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=8&theme=dark&hide=Markdown,Java%20Properties,XML,Git%20Config,Properties&hide_border=true"
     alt="WakaTime Stats"
   />
 </a>
