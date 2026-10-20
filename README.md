@@ -11,7 +11,7 @@
 
 [![Badge](https://img.shields.io/badge/GitHub-leopettersen-black?style=plastic&logo=github)](https://github.com/leopettersen)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonardopettersen)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel)]()
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel)](https://www.leopettersen.dev/)
 [![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail)](mailto:leonardopettersen465@yahoo.com)
 
 -----
